@@ -11,9 +11,10 @@ Poniższy gotowy fragment winien wykonać całą robotę:
           Futil.processDir(dirName, resultFileName);
         }
       }
+      
 Uwagi:
 pliku Main.java nie wolno w żaden sposób modyfikować,
 trzeba dostarczyć definicji klasy Futil,
 oczywiście, nazwa katalogu i pliku oraz ich położenie są obowiązkowe,
 należy zastosować FileVisitor do przeglądania katalogu oraz kanały plikowe (klasa FileChannel) do odczytu/zapisu plików (bez tego rozwiązanie nie uzyska punktów).
-w wynikach testów mogą być przedstawione dodatkowe zalecenia co do sposobu wykonania zadania (o ile rozwiązanie nie będzie jeszcze ich uwzględniać),.
+w wynikach testów mogą być przedstawione dodatkowe zalecenia co do sposobu wykonania zadania (o ile rozwiązanie nie będzie jeszcze ich uwzględniać).
